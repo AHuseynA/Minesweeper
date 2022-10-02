@@ -1,0 +1,5 @@
+﻿  Minesweeper.cpp
+C:\Users\ACER NITRO 5\Desktop\minesweeper project\Minesweeper\Minesweeper.cpp(39,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ACER NITRO 5\Desktop\minesweeper project\Minesweeper\Minesweeper.cpp(75,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\ACER NITRO 5\Desktop\minesweeper project\Minesweeper\Minesweeper.cpp(114,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Minesweeper.vcxproj -> C:\Users\ACER NITRO 5\Desktop\minesweeper project\Minesweeper\Debug\Minesweeper.exe
